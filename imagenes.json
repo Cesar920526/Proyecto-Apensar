@@ -1,0 +1,32 @@
+{
+	"imagenes":{
+
+			"Deportes":[
+				{
+					"texto": "futbol", "url": "img/Futbol.bmp"
+				},{
+					"texto": "baloncesto", "url": "img/Baloncesto.bmp"
+				},{
+					"texto": "dormir", "url": "img/Mimicion.bmp"
+				}
+			],
+			"Lenguajes":[
+				{
+					"texto": "C#", "url": "img/Futbol.bmp"
+				},{
+					"texto": "Racket", "url": "img/Baloncesto.bmp"
+				},{
+					"texto": "JavaScript", "url": "img/Mimicion.bmp"
+				}
+			],
+			"Paises":[
+				{
+					"texto": "Rusia", "url": "img/Futbol.bmp"
+				},{
+					"texto": "Brasil", "url": "img/Baloncesto.bmp"
+				},{
+					"texto": "Cali", "url": "img/Mimicion.bmp"
+				}
+			]
+	}
+}
